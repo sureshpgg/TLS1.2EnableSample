@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="getLotDetails">/rest/GetLotDetails</string>
+    <string name="sendBagWeight">/rest/SendBagWeight</string>
+    <string name="sendWeight">/rest/SendWeight</string>
+    <string name="bagTypes">/rest/MastersUpdate/getBagTypes</string>
+    <string name="verifyUser">/rest/verifyUser</string>
+    <string name="getHWMaster">/rest/NfclWS/getMasterDataHW</string>
+    <string name="getProductFeeMapComponents">/rest/NfclWS/getProductFeeMapComponents</string>
+    <string name="getFeeCategoryListAutoSaleAgreement">/rest/FeeCategory/getFeeCategoryListAutoSaleAgreement</string>
+    <string name="getFeeComponentListAutoSaleAgreement">/rest/FeeComponent/getFeeComponentListAutoSaleAgreement</string>
+    <string name="sendBagWeightAuto">/rest/SendBagWeightAuto</string>
+</resources>
